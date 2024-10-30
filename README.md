@@ -5,5 +5,5 @@ Minecraft Datapack that incorporates Super Hero Suits and Harry Potter Floo Powd
 ![Superhero Suits](https://github.com/djorgensentech/superheroes/blob/main/supersuits.png)
 
 ## The Floo Powder Network from Harry Potter
-![Demonstration]()
-![Fireplace]()
+![Demonstration](https://github.com/djorgensentech/superheroes/blob/main/floo.png)
+![Fireplace](https://github.com/djorgensentech/superheroes/blob/main/floo2.png)
