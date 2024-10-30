@@ -1,0 +1,1 @@
+tellraw @a {"text":"Superhero Data Loaded", "color":"aqua", "italic":false, "bold": true}
